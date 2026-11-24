@@ -101,3 +101,6 @@ PromptForge/
 ```bash
 python3 -m unittest discover -s tests -v
 ```
+
+## 📄 License
+MIT © [Goblin-Inc](https://github.com/Goblin-Inc)
